@@ -1,0 +1,14 @@
+U+1F4A6
+document.body.innerHTML += "💦";
+// o usando código Unicode
+document.body.innerHTML += "\u{1F4A6}";
+.elemento::before {
+  content: "\1F4A6";
+}
+A
+}
+}}
+}
+}
+{
+Codificado en Base64 (UTF-8): 8J+Sqg==
